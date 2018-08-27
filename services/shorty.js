@@ -39,6 +39,7 @@ module.exports = async function shorty(fastify, opts) {
 
 /**
  * Schema for the `/shorty` endpoint.
+ * Helps validate and coerce incoming / outgoing data.
  */
 const postOpts = {
   schema: {

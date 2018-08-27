@@ -50,6 +50,7 @@ module.exports.prefixOverride = '';
 
 /**
  * Schema for the `/:code` endpoint. No schema for redirect. Otherwise a 404.
+ * Helps validate and coerce incoming data.
  */
 const getOpts = {
   schema: {

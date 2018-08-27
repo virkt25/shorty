@@ -43,6 +43,7 @@ module.exports = async function shorty(fastify, opts) {
 /**
  * Schema for the `/stats/:code` endpoint. Defines options for the request
  * and the possible expected outputs.
+ * Helps validate and coerce incoming / outgoing data.
  */
 const statOpts = {
   schema: {
