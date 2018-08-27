@@ -121,10 +121,10 @@ Response:
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png)
+Home Page ![Home Page](/screenshots/1.png)
 
-![Home Page - Filled Form](/screenshots/2.png)
+Home Page - Filled Form ![Home Page - Filled Form](/screenshots/2.png)
 
-![Results Page](/screenshots/3.png)
+Results Page ![Results Page](/screenshots/3.png)
 
-![Stats API](/screenshots/4.png)
+Stats API ![Stats API](/screenshots/4.png)
