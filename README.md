@@ -119,6 +119,15 @@ Response:
 }
 ```
 
+## Next Steps
+
+- A script to spin up a test MongoDB instance so we can run clean tests every
+  time.
+- Add more tests that verify other endpoints.
+- Add a stats display page with graphs for count and a table for the visitors
+- For scalability:
+  - Seperate and serve UI over CDN and use Node for REST APIs
+
 ## Screenshots
 
 Home Page ![Home Page](/screenshots/1.png)
